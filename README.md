@@ -1,1 +1,2 @@
 ## PROJETO FURIA DESENVOLVIDO COMO FREELANCER TOTALMENTE RESPONSIVO PARA TODAS AS TELAS.
+# Preview Site: https://furiaa-thaynas-projects-f5f26c94.vercel.app/
